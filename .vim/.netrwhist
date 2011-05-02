@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/etc/munin/plugin-conf.d'
+let g:netrw_dirhist_2='/home/ryotare/download'
+let g:netrw_dirhist_3='/home/ryotare/download/r8168-8.020.00'
+let g:netrw_dirhist_4='/home/ryotare/download'
+let g:netrw_dirhist_5='/var/www/epgrec/video_org'
+let g:netrw_dirhist_6='/var/www/epgrec'
+let g:netrw_dirhist_7='/home/ryotare/.vim'
